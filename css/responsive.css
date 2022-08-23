@@ -1,0 +1,209 @@
+@media(max-width:991px){
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+}
+@media(max-width:576px) and (min-width:320px){
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .banner_content h1 {
+        line-height: 50px;
+        font-size: 38px;
+    }
+    .banner_content p {
+        font-size: 17px;
+    }
+    .img_text p {
+        font-size: 11px;
+    }
+    .banner_img {
+        display: none;
+    }
+    .brand_part {
+        text-align: center;
+    }
+    .about_are h3, .future_text h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .future_on h5 {
+        font-size: 20px;
+    }
+    .future_on p {
+        font-size: 12px;
+    }
+    .possibilities_img {
+        margin-bottom: -70px;
+    }
+    .possibilities_text h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .request_text h4 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .request_text {
+        font-size: 12px;
+    }
+    .head_one h2 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .gallery_part {
+        padding: 0px 0;
+    }
+    .footer_part h1 {
+        font-size: 27px;
+        line-height: 40px;
+    }
+    .footer_menu h5, .footer_tou h5, .footer_bottom h5 {
+        margin: 20px 0;
+        text-align: center;
+    }
+    .gallery_two {
+        margin-top: 15px;
+    }
+    .pt-4 {
+        padding-top: 0.5rem!important;
+    }
+    .footer_menu ul li, .footer_tou ul li, .footer_bottom ul li {
+        list-style: none;
+        padding: 8px 0;
+        text-align: center;
+    }
+    .footer_logo {
+        text-align: center;
+    }
+    .img1 img {
+        margin: 0 0 20px 0;
+    }
+    .request_button a {
+        padding: 8px 8px;
+        font-size: 12px;
+    }
+}
+@media(max-width:768px) and (min-width:576px){
+    .banner_content h1 {
+        line-height: 50px;
+        font-size: 37px;
+    }
+    .banner_content p {
+        margin-top: 20px;
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .img_text p {
+        font-size: 10px;
+    }
+    .about_are h3, .future_text h3 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .about_the h6 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .about_are h3, .future_text h3 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .possibilities_text h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .request_text h4 {
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .head_one h2 {
+        font-size: 45px;
+        line-height: 65px;
+    }
+    .gallery_part {
+        padding: 8px 0;
+    }
+    .gallery_text h6 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .gallery_two_text h6 {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .footer_part h1 {
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .footer_menu h5, .footer_tou h5, .footer_bottom h5 {
+        font-size: 25px;
+    }
+}
+@media(max-width:991px) and (min-width:768px){
+    .banner_content h1 {
+        line-height: 50px;
+        font-size: 38px;
+    }
+    .banner_content p {
+        margin-top: 25px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .img_text p {
+        font-size: 12px;
+    }
+    .about_are h3, .future_text h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .possibilities_text h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .request_text h4 {
+        line-height: 35px;
+    }
+    .head_one h2{
+        font-size: 45px;
+        line-height: 65px;
+    }
+    .gallery_text h6 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .gallery_two_text h6 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .footer_part h1 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+    .footer_menu h5, .footer_tou h5, .footer_bottom h5 {
+        font-size: 24px;
+    }
+}
+@media(max-width:1199px) and (min-width:991px){
+    .banner_content h1 {
+        line-height: 60px;
+        font-size: 50px;
+    }
+    .about_are h3, .future_text h3{
+        font-size: 30px;
+    }
+    .request_text h4{
+        line-height: 40px;
+    }
+    .head_one h2{
+        font-size: 45px;
+        line-height: 65px;
+    }
+    .footer_part h1 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+    .footer_menu h5, .footer_tou h5, .footer_bottom h5 {
+        font-size: 27px;
+    }
+}
